@@ -65,6 +65,15 @@ somente por imagens precisam passar por OCR antes da leitura.
 
 ## Criar o executável Windows
 
+### Download direto
+
+O executável pronto para Windows está disponível no próprio projeto:
+
+[Baixar Ordem Corte LS.exe](Ordem%20Corte%20LS.exe)
+
+Copie esse arquivo para o computador da loja e execute-o. Não é necessário
+instalar Python ou bibliotecas.
+
 Instale o PyInstaller:
 
 ```powershell
